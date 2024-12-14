@@ -1,6 +1,8 @@
-class New
-{
-	int a=10;
-String name="abc";
-	sysout("edited in notepad");
+class Demo{
+
+public static void main(String[] args)
+  {
+    sysout("hello");
+  }
 }
+
